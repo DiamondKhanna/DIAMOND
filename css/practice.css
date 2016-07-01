@@ -1,0 +1,48 @@
+.wrap h1
+{
+	float: left;
+}
+
+.wrap ul
+{
+	float: right;
+	
+}
+
+.wrap ul a
+{
+	text-decoration: none;
+	color: black;
+}
+
+.wrap li
+{
+	display: inline;
+	margin-left: 40px;
+}
+
+.wrap
+{
+	colour: red;
+}
+
+.wrap ul a:hover
+{
+	color: red;
+	text-decoration: underline;
+}
+
+.image section
+{
+	
+}
+
+.3_section
+{
+	margin-top: 50px;
+}
+
+header
+{
+	background: red;
+}
